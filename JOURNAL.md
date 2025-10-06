@@ -18,3 +18,11 @@ The drive motors will look something like this
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDk5LCJwdXIiOiJibG9iX2lkIn19--e1251d1e14e5b9732831e51fe9795eedbd5aab2f/image.png)
   
 
+## 10/6/2025 - Created a custom planetary gearbox  
+
+Today I spent some more time messaging people on AliExpress and Alibaba asking them about different gearbox's, but none have the information I needed, so I gave up on that and I spent a few hours messing with gear ratios and ended up making a fully custom 3d printed planetary gearbox that I'm printing out tonight to test. Other than that I didn't really do anything on it today
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjkxLCJwdXIiOiJibG9iX2lkIn19--09b4e6bfae5dd41aebc14a3b8cd5bc2b98baeeac/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjkyLCJwdXIiOiJibG9iX2lkIn19--26802f39bdd0cee67604d3551d441e5fb313c2a5/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjkzLCJwdXIiOiJibG9iX2lkIn19--e1d6e14a995fce8359e96e10b0112f9b1cb4cc46/image.png)
+  
+
