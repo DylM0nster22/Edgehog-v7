@@ -26,3 +26,8 @@ Today I spent some more time messaging people on AliExpress and Alibaba asking t
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjkzLCJwdXIiOiJibG9iX2lkIn19--e1d6e14a995fce8359e96e10b0112f9b1cb4cc46/image.png)
   
 
+## 10/7/2025 - Messes around with the gearbox and continued cadding  
+
+So the gearbox didn't work great so far I'm on my third or fourth version of it with the first issue being I couldn't get the parts in, then the second being the plastic nubs I had to mount gears to not having enough strength which I fixed by making those m2 screws then I have an issue with it being too tight, currently I am waiting for it to finish 3d printing again so I can test it. As for the cad side of things I am thinking that the gearbox may not be strong enough so I might have to switch to repeat robotics mk4's or a similar brushless drive motor.![image.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTI5LCJwdXIiOiJibG9iX2lkIn19--2e47755c62500bf00e64e500de4179c90633e545/image.jpg)
+  
+
