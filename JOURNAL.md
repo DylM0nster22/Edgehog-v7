@@ -31,3 +31,11 @@ Today I spent some more time messaging people on AliExpress and Alibaba asking t
 So the gearbox didn't work great so far I'm on my third or fourth version of it with the first issue being I couldn't get the parts in, then the second being the plastic nubs I had to mount gears to not having enough strength which I fixed by making those m2 screws then I have an issue with it being too tight, currently I am waiting for it to finish 3d printing again so I can test it. As for the cad side of things I am thinking that the gearbox may not be strong enough so I might have to switch to repeat robotics mk4's or a similar brushless drive motor.![image.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTI5LCJwdXIiOiJibG9iX2lkIn19--2e47755c62500bf00e64e500de4179c90633e545/image.jpg)
   
 
+## 10/8/2025 - Created the upright and had a relization  
+
+So today i got the gear boxes working and was testing them before i relized the shaft wouldent be able to take nearly enough torque because i was spinning the whole gearbox from said shaft and the shfat just bent off on three different pieces even with a screw centraly supporting it. So then i reseached different drive motors and decided on the repeat robotics mk4s beofre i them learned the 4mm version is out of stock everywhere. So now im going to use a 3lb robot drive motor called the repeat compacts which use 1806 motor which is slightly bigger then my custom gearbox motor and a lot lot stronger. Today i also designed the uprights but i think im going to have to change things up with the new bigger motor. This is the difference between a mk4 and a compact with the mk4 being on the right ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--01077b9f78e1ab5de18093b4c7a9db9fd8305fb1/image.png)
+
+here is the upright i designed too it needs a bit of work
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--24710234c4e1001edf8b9f2e8b5271cdba135b1a/image.png)
+  
+
