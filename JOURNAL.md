@@ -10,7 +10,7 @@ This is my journal of the design and building process of **1lb Plastic Antweight
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/182).
 
 
-## 10/5/2025 - Started the cad and go a basic design setup  
+## 10/4/2025 - Started the cad and go a basic design setup  
 
 I started off with doing some research on what motors I was going to do for the drive of this robot, in previous versions I've done a type of drive called Alex drive which is a complicated drive with a mix of gears and belts, for this version I am doing a complete remake and I spent an hour or so talking with different providers about gearboxes and I think I am going to figure out how to mount the brushless motor to a gearbox from a brushes motor. I'm waiting on providers to reply back as of now. As for the CAD side of things I chose my electronics and made a weapon ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDkxLCJwdXIiOiJibG9iX2lkIn19--a8968808ec250f1b8b11a4cd3febd594cb0d304c/image.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDkyLCJwdXIiOiJibG9iX2lkIn19--aa733b7a013e5d3edbb9cfafe792b89791a3137a/image.png)
@@ -18,7 +18,7 @@ The drive motors will look something like this
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDk5LCJwdXIiOiJibG9iX2lkIn19--e1251d1e14e5b9732831e51fe9795eedbd5aab2f/image.png)
   
 
-## 10/6/2025 - Created a custom planetary gearbox  
+## 10/5/2025 - Created a custom planetary gearbox  
 
 Today I spent some more time messaging people on AliExpress and Alibaba asking them about different gearbox's, but none have the information I needed, so I gave up on that and I spent a few hours messing with gear ratios and ended up making a fully custom 3d printed planetary gearbox that I'm printing out tonight to test. Other than that I didn't really do anything on it today
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjkxLCJwdXIiOiJibG9iX2lkIn19--09b4e6bfae5dd41aebc14a3b8cd5bc2b98baeeac/image.png)
@@ -26,16 +26,27 @@ Today I spent some more time messaging people on AliExpress and Alibaba asking t
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjkzLCJwdXIiOiJibG9iX2lkIn19--e1d6e14a995fce8359e96e10b0112f9b1cb4cc46/image.png)
   
 
-## 10/7/2025 - Messes around with the gearbox and continued cadding  
+## 10/7/2025 7 AM - Messes around with the gearbox and continued cadding  
 
 So the gearbox didn't work great so far I'm on my third or fourth version of it with the first issue being I couldn't get the parts in, then the second being the plastic nubs I had to mount gears to not having enough strength which I fixed by making those m2 screws then I have an issue with it being too tight, currently I am waiting for it to finish 3d printing again so I can test it. As for the cad side of things I am thinking that the gearbox may not be strong enough so I might have to switch to repeat robotics mk4's or a similar brushless drive motor.![image.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTI5LCJwdXIiOiJibG9iX2lkIn19--2e47755c62500bf00e64e500de4179c90633e545/image.jpg)
   
 
-## 10/8/2025 - Created the upright and had a relization  
+## 10/7/2025 9 PM - Created the upright and had a relization  
 
 So today i got the gear boxes working and was testing them before i relized the shaft wouldent be able to take nearly enough torque because i was spinning the whole gearbox from said shaft and the shfat just bent off on three different pieces even with a screw centraly supporting it. So then i reseached different drive motors and decided on the repeat robotics mk4s beofre i them learned the 4mm version is out of stock everywhere. So now im going to use a 3lb robot drive motor called the repeat compacts which use 1806 motor which is slightly bigger then my custom gearbox motor and a lot lot stronger. Today i also designed the uprights but i think im going to have to change things up with the new bigger motor. This is the difference between a mk4 and a compact with the mk4 being on the right ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--01077b9f78e1ab5de18093b4c7a9db9fd8305fb1/image.png)
 
 here is the upright i designed too it needs a bit of work
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--24710234c4e1001edf8b9f2e8b5271cdba135b1a/image.png)
+  
+
+## 10/10/2025 - Fleshed out the robot and messed with the wheels  
+
+I started this yesterday but i forgot to add a log, so today i fleshed out the robot by adding a bunch of things and starting to do weight calculations to see if it will be underweight, first i got proper wheels imported, then i started making things look good and be stronger by adding a bunch if filets and overall making it look smoother. its going to be really close with the weight but i think it might be underweight with the 3lb drive motors 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe4d6fec0f7f67c034e10020b090056ae20330c3/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e8fd21d9e25f4fad5a9650d4a6ee3ca46cd82c17/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--b503c6e8508fe94c6197373561cdfe46b8bd2201/image.png)
+This is my weight without armor so i might be cooked 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MywicHVyIjoiYmxvYl9pZCJ9fQ==--e47b636d0c53e958e1c7e3d3abf0973d4c72a646/image.png)
+
   
 
