@@ -50,3 +50,11 @@ This is my weight without armor so i might be cooked
 
   
 
+## 10/14/2025 - Today I finished the robot!!!  
+
+Today I finished the robot!!! today I started with remaking the uprights a little bit to make them smaller and make it possible to drive upside down, then i had to remake the top lid too. after that i finally got the design down for the armor after a few revisions. after all of that I did weight calcs with it being solid and was stupidly overweight thankfully i dont need everything to be solid so when i was messing with print settings i was able to get it underweight. here is a side profile ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--fb2639d2e8c26aff46e7979072fea6bcdb3d0a61/image.png)
+here is a front view ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--50a4556f903ddf1257dd32b9da6432b6ee6087bc/image.png)
+And here's a top view ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--34e443df609964bacc9987b8ee8a905b74f92e17/image.png)
+heres my weight calcs, ill add links to populate the bom soon ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1MywicHVyIjoiYmxvYl9pZCJ9fQ==--b6a25a245af992bf129c7ab2eb33768f20d8f842/image.png)
+  
+
