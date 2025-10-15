@@ -56,5 +56,7 @@ Today I finished the robot!!! today I started with remaking the uprights a littl
 here is a front view ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--50a4556f903ddf1257dd32b9da6432b6ee6087bc/image.png)
 And here's a top view ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--34e443df609964bacc9987b8ee8a905b74f92e17/image.png)
 heres my weight calcs, ill add links to populate the bom soon ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1MywicHVyIjoiYmxvYl9pZCJ9fQ==--b6a25a245af992bf129c7ab2eb33768f20d8f842/image.png)
+
+UPDATE: I relized i forgot to say some major things, like i switched away from using the 3lb motors and instead switched to mk4 motors which are made for 1lb weight clases, and the only version of those in stock is a 3mm shaft which is too weak so i also had to include the 4mm shaft upgrade
   
 
