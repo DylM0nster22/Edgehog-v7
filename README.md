@@ -1,9 +1,11 @@
 This is my 7th complete redesign of my 1lb plastic antweight combat robot called edgehog. Its a type of vertical spinner called a drum which is like a wide spinner, the weapon will be spinning around 250mph so it will have alot of kinetic energy.
 I made this project because i love combat robotics but i never really make good robots, this time i decided to join the meta more and make something that is more prone to winning. 
 
-here is a final render of the robot <img width="754" height="509" alt="image" src="https://github.com/user-attachments/assets/391f0d1f-afb0-466c-9091-69cb08059dec" /> <img width="537" height="398" alt="image" src="https://github.com/user-attachments/assets/a22375c5-bb7f-4930-8991-804f7f40f1a0" />
+here is a final render of the robot
+<img width="754" height="509" alt="image" src="https://github.com/user-attachments/assets/391f0d1f-afb0-466c-9091-69cb08059dec" />
+<img width="537" height="398" alt="image" src="https://github.com/user-attachments/assets/a22375c5-bb7f-4930-8991-804f7f40f1a0" />
 
-
+The Bom is higher than the amount recieved because I didnt have enough time commited for a higher tier
 
 
 
