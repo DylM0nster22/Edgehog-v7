@@ -9,6 +9,13 @@
 This is my journal of the design and building process of **1lb Plastic Antweight Comabt robot**.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/182).
 
+## 11/20/2025 - Redesigned the Robot
+
+Since the last update I competed with this robot at a competition, and it got 4th place!
+The main issues with the robot were 1. the "Ground game" sucked, which means the forks went fully touching the ground and it let other robots get under it easier. 2. The weapon was 8mm off the ground which allowed other robots to get under me much easier because their forks did get caught under my weapon and instead just made me lift up. In the newest version of the robot, I had to fix all those issues and reinforce things that I found out were going to cause more problems. The robot was previously running on a 3s lipo battery and I was able to make it run on a 4s by reducing the weapon diameter, the speed of the weapon still increases because of the higher battery voltage. I also had to change how the bearing was put into the weapon after melting 4 different weapons because of friction, I switched to a flanged bearing. This robot is going to be competing again with all of its upgrades on the 22nd.![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI4MzgsInB1ciI6ImJsb2JfaWQifX0=--c79f8739e9c148ba9068e8652df7fcdc0da8642f/image.png)
+![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI4MzksInB1ciI6ImJsb2JfaWQifX0=--f1658657fdda18ca46b88800f7af3fb0e58c9f06/image.png)
+![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI4NDAsInB1ciI6ImJsb2JfaWQifX0=--93c82770b0dfe04f60e10119c5b296c85e7679bc/image.png)
+
 
 ## 10/4/2025 - Started the cad and go a basic design setup  
 
