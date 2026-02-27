@@ -2,8 +2,12 @@ This is my 7th complete redesign of my 1lb plastic antweight combat robot called
 I made this project because i love combat robotics but i never really make good robots, this time i decided to join the meta more and make something that is more prone to winning. 
 
 here is a final render of the robot
+
 <img width="672" height="385" alt="image" src="https://github.com/user-attachments/assets/eb99fe09-89e4-4c90-a48b-2815a3e1b59d" />
 
+Here is a wiring diagram
+
+<img width="1076" height="749" alt="image" src="https://github.com/user-attachments/assets/5189418c-2c62-4a8d-b349-f433664989ec" />
 
 The Bom is higher than the amount being recieved because I didnt have enough time commited for a higher tier with a higher budget
 
